@@ -8,7 +8,7 @@
   child: false
   publish: true
 
-- topic: Writing a Letter in OfficeLibre
+- topic: Writing a Letter in LibreOffice
   filename: t-givingtea.html
   child: true
   publish: true
