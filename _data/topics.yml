@@ -4,22 +4,22 @@
   publish: true
 
 - topic: Getting Started
-  filename: t-feeding.html
+  filename: t-LibreOfficeDownload.html
   child: false
   publish: true
 
-- topic: Writing a Letter in LibreOffice
-  filename: t-givingtea.html
+- topic: Writing a Letter in LibreOffice Writer 
+  filename: t-LibreOfficeWriter.html
   child: true
   publish: true
 
 - topic: Creating a Spreadsheet in LibreOffice Calc
-  filename: t-boxing.html
+  filename: t-LibreOfficeCalc.html
   child: false
   publish: true
 
 - topic: Creating a Presentation in LibreOffice Impress
-  filename: r-nutrition.html
+  filename: r-LibreOfficeImpress.html
   child: false
   publish: true
 
