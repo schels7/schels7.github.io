@@ -1,24 +1,24 @@
-- topic: The Technical Writing Monkey
+- topic: Instructions to LibreOffice
   filename: c-intro.html
   child: false
   publish: true
 
-- topic: How to feed a monkey
-  filename: t-feeding.html
+- topic: How to Download LibreOffice
+  filename: t-libreofficedownload.html
   child: false
   publish: true
 
-- topic: How to give iced tea to a monkey
-  filename: t-givingtea.html
+- topic: How to Write a Letter in LibreOffice Writer
+  filename: t-LibreOfficeWriter.html
   child: true
   publish: true
 
-- topic: How to put a monkey inside a box
-  filename: t-boxing.html
+- topic: How to Create A Spreadsheet in LibreOffice Calc
+  filename: t-LibreOfficeCalc.html
   child: false
   publish: true
 
-- topic: Nutritional recommendations for monkeys
-  filename: r-nutrition.html
+- topic: How to Create A Presentation in LibreOffice Impress
+  filename: r-LibreOfficeImpress.html
   child: false
   publish: true
