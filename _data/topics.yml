@@ -1,24 +1,46 @@
+<<<<<<<<HEAD> HEAD
 - topic: Instructions to LibreOffice
+=======
+- topic: How to Use LibreOffice
+>>>>>>> </FETCH_HEAD>
   filename: c-intro.html
   child: false
   publish: true
 
+<<<<<<< <HEAD>
 - topic: How to Download LibreOffice
   filename: t-libreofficedownload.html
   child: false
   publish: true
 
 - topic: How to Write a Letter in LibreOffice Writer
+=======
+- topic: Getting Started
+  filename: t-LibreOfficeDownload.html
+  child: false
+  publish: true
+
+- topic: Writing a Letter in LibreOffice Writer 
+>>>>>>> </FETCH_HEAD>
   filename: t-LibreOfficeWriter.html
   child: true
   publish: true
 
+<<<<<<< <HEAD>
 - topic: How to Create A Spreadsheet in LibreOffice Calc
+=======
+- topic: Creating a Spreadsheet in LibreOffice Calc
+>>>>>>> </FETCH_HEAD>
   filename: t-LibreOfficeCalc.html
   child: false
   publish: true
 
+<<<<<<< HEAD
 - topic: How to Create A Presentation in LibreOffice Impress
+=======
+- topic: Creating a Presentation in LibreOffice Impress
+>>>>>>> FETCH_HEAD
   filename: r-LibreOfficeImpress.html
   child: false
   publish: true
+
